@@ -1,0 +1,3 @@
+- 👋 Hi, My name is Mohammed.
+- 🌱 I’m currently learning Web development.
+- 📚 I've learned so far: CSS/SASS , Javascript, REACT, ASP.NET, SQL and NoSQL.
